@@ -5,4 +5,4 @@ It also demonstrates the results with a plot made in R, this Plot is an Line Cha
 
 The Python API Consumer also is able to receive a parameter to load historical values. It reads all the currencies in the last 180 days. 
 
-If you wanna take a look at the results, go to http://santiagocloud.com
+Results in http://santiagocloud.com
